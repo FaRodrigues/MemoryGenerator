@@ -4,4 +4,4 @@ These Mathematica scripts generate a VHD file describing a 32-bit, 256-position 
 
 The resulting memory is intended for use in testing FPGA FMC connectors.
 
-The file can emulate a 4 x 8 position by 256-bit memory, suitable for testing a direct-sampling DAC
+The file can emulate four 256 position 8-bit memory, suitable for testing a direct-sampling DAC
