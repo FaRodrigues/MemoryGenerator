@@ -1,7 +1,7 @@
 # MemoryGenerator
 
-These Mathematica scripts generates a vhd file description of a ROM memory with 32 bit and 256 positions
+These Mathematica scripts generate a VHD file describing a 32-bit, 256-position ROM memory.
 
-The resulting memory is intended to be used in FPGA FMC connector tests.
+The resulting memory is intended for use in testing FPGA FMC connectors.
 
-The file can emulate a 4 x8 per 256 bit memory proper for test of a Direct Sampling DAC
+The file can emulate a 4 x 8 position by 256-bit memory, suitable for testing a direct-sampling DAC
